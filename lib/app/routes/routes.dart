@@ -21,5 +21,6 @@ class Routes {
   static const verifyUrNum3 = '/verify-ur-num';
   static const verifyUrNum4 = '/verify-ur-num';
   static const verifyUrNum5 = '/verify-ur-num';
+  static const verifyUrNum55 = '/verify-ur-num';
 
 }
