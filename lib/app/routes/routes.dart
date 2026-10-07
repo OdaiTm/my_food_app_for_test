@@ -1,6 +1,10 @@
 part of 'app_pages.dart';
 
 class Routes {
+    static const addNewAddress = '/add-new-address';
+  static const addNewAddress = '/add-new-address';
+  static const addNewAddress = '/add-new-address';
+
   static const addNewAddress = '/add-new-address';
   static const addNewCard = '/add-new-card';
   static const confermOpt = '/conferm-opt';
