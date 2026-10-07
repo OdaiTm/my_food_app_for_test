@@ -13,9 +13,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'food',
-      initialRoute: Routes.splashScreen,
+      title: 'Food is nice',
+      initialRoute: Routes.paymentMethod,
       getPages: AppPages.routes,
     );
   }
 }
+//this new line is just for testing 
